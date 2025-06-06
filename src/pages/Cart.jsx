@@ -1,4 +1,12 @@
+import { useEffect } from "react";
+
 export default function Cart() {
+
+    useEffect(() => {
+        document.title = "Cart / Shopping Cart";
+        window.scrollTo(0, 0);
+    }, [document.title])
+    
     return (
         <section className="my-10 min-h-screen">
             <div>
