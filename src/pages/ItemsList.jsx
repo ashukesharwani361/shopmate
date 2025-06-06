@@ -74,8 +74,8 @@ export default function ItemsList({ }) {
                     </div>
                     <div className="text-center text-lg p-3 font-semibold">Sony Wh-Ch510 Bluetooth Wireless</div>
                     <div className="flex justify-between my-4">
-                        <span className="text-lg font-semibold p-1.5" >$149</span>
-                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5" >Add To Cart</span>
+                        <span className="text-lg font-semibold p-1.5 ml-2" >$149</span>
+                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5 mr-4" >Add To Cart</span>
                     </div>
                 </div>
                 <div className="flex flex-col border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow">
@@ -84,8 +84,8 @@ export default function ItemsList({ }) {
                     </div>
                     <div className="text-center text-lg p-3 font-semibold">boAt Rockerz 450</div>
                     <div className="flex justify-between my-4">
-                        <span className="text-lg font-semibold p-1.5" >$49</span>
-                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5" >Add To Cart</span>
+                        <span className="text-lg font-semibold p-1.5 ml-2" >$49</span>
+                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5 mr-4" >Add To Cart</span>
                     </div>
                 </div>
                 <div className="flex flex-col border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow">
@@ -94,8 +94,8 @@ export default function ItemsList({ }) {
                     </div>
                     <div className="text-center text-lg p-3 font-semibold">JBL Tune 760NC</div>
                     <div className="flex justify-between my-4">
-                        <span className="text-lg font-semibold p-1.5" >$179</span>
-                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5" >Add To Cart</span>
+                        <span className="text-lg font-semibold p-1.5 ml-2" >$179</span>
+                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5 mr-4" >Add To Cart</span>
                     </div>
                 </div>
                 <div className="flex flex-col border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow">
@@ -104,8 +104,8 @@ export default function ItemsList({ }) {
                     </div>
                     <div className="text-center text-lg p-3 font-semibold">Logitech H111 Wired</div>
                     <div className="flex justify-between my-4">
-                        <span className="text-lg font-semibold p-1.5" >$39</span>
-                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5" >Add To Cart</span>
+                        <span className="text-lg font-semibold p-1.5 ml-2" >$39</span>
+                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5 mr-4" >Add To Cart</span>
                     </div>
                 </div>
                 <div className="flex flex-col border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow">
@@ -114,8 +114,8 @@ export default function ItemsList({ }) {
                     </div>
                     <div className="text-center text-lg p-3 font-semibold">APPLE Airpods Max Bluetooth Headset</div>
                     <div className="flex justify-between my-4">
-                        <span className="text-lg font-semibold p-1.5" >$199</span>
-                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5" >Add To Cart</span>
+                        <span className="text-lg font-semibold p-1.5 ml-2" >$199</span>
+                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5 mr-4" >Add To Cart</span>
                     </div>
                 </div>
                 <div className="flex flex-col border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow">
@@ -124,8 +124,8 @@ export default function ItemsList({ }) {
                     </div>
                     <div className="text-center text-lg p-3 font-semibold">ZEBRONICS Zeb-Thunder Wired</div>
                     <div className="flex justify-between my-4">
-                        <span className="text-lg font-semibold p-1.5" >$29</span>
-                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5" >Add To Cart</span>
+                        <span className="text-lg font-semibold p-1.5 ml-2" >$29</span>
+                        <span className="text-lg font-semibold bg-blue-600 hover:bg-blue-900 cursor-pointer rounded-lg text-white p-1.5 mr-4" >Add To Cart</span>
                     </div>
                 </div>
                 
